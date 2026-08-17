@@ -1,0 +1,17 @@
+# Gali
+
+Gali is the campus marketplace with escrow. It lets university students buy and sell safely within their school: payments are held in escrow and only released after the buyer and seller meet, inspect the item, and confirm in person at a campus handoff spot.
+
+## Pages
+- https://gali.com.ng/ - Home: live listings, campus stats, escrow explainer, demo videos.
+- https://gali.com.ng/how-it-works - How the buy, escrow, and handoff flow works.
+- https://gali.com.ng/sell - For sellers: free listings, verified storefront, escrow payouts.
+- https://gali.com.ng/faq - Frequently asked questions about escrow, safety, campuses, and fees.
+- https://gali.com.ng/signup - Create a buyer or seller account.
+
+## Key facts
+- Campus-verified accounts.
+- Escrow custody: money is locked until in-person confirmation.
+- Cheap and accessible: free standard listings, optional Pro plan.
+- Live across several Nigerian universities, expanding.
+- App: https://app.gali.com.ng
