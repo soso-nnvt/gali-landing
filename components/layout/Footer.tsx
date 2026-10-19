@@ -51,7 +51,7 @@ export default function Footer() {
       </div>
 
       <div className="container-edge py-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-white/45">
-        <span>Gali Marketplace</span>
+        <span className="font-mono leading-tight">Gali Digital - RC 8662494<br />Made in Nigeria</span>
         <span className="font-mono"><a href="https://www.snapchat.com/@abdulsoburrr" target="_blank" rel="noreferrer" className="hover:text-acid transition-colors">Built with &#10084;&#65039; by Abdulsobur</a></span>
         <span className="font-mono">Trade on campus.</span>
       </div>

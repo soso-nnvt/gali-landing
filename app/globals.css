@@ -84,3 +84,16 @@ html.lenis, html.lenis body { height: auto; }
   * { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
   .transition-overlay { display: none !important; }
 }
+
+.blog-content { color: #3a3a3a; font-size: 1.075rem; line-height: 1.75; }
+.blog-content h2 { font-family: var(--font-display); font-weight: 800; font-size: 1.6rem; margin: 2rem 0 0.75rem; color: #1A1A1A; letter-spacing: -0.02em; }
+.blog-content h3 { font-family: var(--font-display); font-weight: 700; font-size: 1.25rem; margin: 1.5rem 0 0.5rem; color: #1A1A1A; }
+.blog-content p { margin: 1rem 0; }
+.blog-content ul, .blog-content ol { margin: 1rem 0; padding-left: 1.5rem; }
+.blog-content li { margin: 0.4rem 0; }
+.blog-content a { color: #0f9d4f; text-decoration: underline; }
+.blog-content blockquote { border-left: 3px solid #13EB66; padding-left: 1rem; margin: 1.25rem 0; color: #555; font-style: italic; }
+.blog-content code { background: #efece2; padding: 0.15rem 0.35rem; border-radius: 6px; font-size: 0.9em; }
+.blog-content strong { color: #1A1A1A; font-weight: 700; }
+.blog-content hr { border: none; border-top: 1px solid #e3e0d6; margin: 2rem 0; }
+.blog-content img { border-radius: 14px; margin: 1.5rem 0; }

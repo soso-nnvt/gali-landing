@@ -8,11 +8,15 @@
     "start": "next start -p 3200"
   },
   "dependencies": {
+    "@paystack/inline-js": "^2.24.0",
+    "gray-matter": "^4.0.3",
     "gsap": "^3.12.5",
     "lenis": "^1.1.18",
     "next": "15.5.19",
+    "next-mdx-remote": "^6.0.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
+    "remark-gfm": "^4.0.1",
     "three": "^0.169.0"
   },
   "devDependencies": {

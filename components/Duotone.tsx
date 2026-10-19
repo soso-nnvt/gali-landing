@@ -36,6 +36,12 @@ const sets: Record<string, ReactNode> = {
   spark: (
     <path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z" fill={A} fillOpacity="0.15" />
   ),
+  check: (
+    <>
+      <circle cx="12" cy="12" r="9" fill={A} fillOpacity="0.15" />
+      <path d="m8.5 12 2.5 2.5 4.5-5" />
+    </>
+  ),
   campus: (
     <>
       <path d="M3 9 12 3l9 6" />

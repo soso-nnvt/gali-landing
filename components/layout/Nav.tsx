@@ -8,7 +8,10 @@ import { gsap } from "@/lib/gsap";
 
 const LINKS = [
   { label: "How it works", href: "/how-it-works" },
+  { label: "Pricing", href: "/pricing" },
   { label: "Sell", href: "/sell" },
+  { label: "About", href: "/about" },
+  { label: "Blog", href: "/blog" },
   { label: "FAQ", href: "/faq" },
   { label: "Sign up", href: "/signup" },
 ];
@@ -59,6 +62,10 @@ export default function Nav() {
           </TransitionLink>
           <nav className="hidden md:flex items-center gap-7 text-sm font-medium">
             <TransitionLink href="/how-it-works">How it works</TransitionLink>
+            <TransitionLink href="/pricing">Pricing</TransitionLink>
+            <TransitionLink href="/stories">Stories</TransitionLink>
+            <TransitionLink href="/blog">Blog</TransitionLink>
+            <TransitionLink href="/about">About</TransitionLink>
             <TransitionLink href="/sell">Sell</TransitionLink>
             <TransitionLink href="/faq">FAQ</TransitionLink>
             <TransitionLink href="/signup">Sign up</TransitionLink>
